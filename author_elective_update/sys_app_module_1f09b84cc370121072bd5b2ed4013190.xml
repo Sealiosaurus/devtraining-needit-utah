@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt Application Menu">dea1f880c370121072bd5b2ed40131da</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_58872_needit_needit">due_date&lt;javascript:gs.beginningOfToday()^EQ<item endquery="false" field="due_date" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Show Past Due NeedIt records</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Past Due</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 11:37:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f09b84cc370121072bd5b2ed4013190</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Past Due</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_1f09b84cc370121072bd5b2ed4013190</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 11:56:58</sys_updated_on>
+        <timeline_page/>
+        <title>Past Due</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Sealtiel Villegas AppFile Lab Exercise</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1211b10d3b0bc2d8baf6048aa4e45a6f</instance_id>
+        <instance_name>dev277092</instance_name>
+        <name>sys_app_module_1f09b84cc370121072bd5b2ed4013190</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt Application Menu">dea1f880c370121072bd5b2ed40131da</application><assessment/><device_type/><filter table="x_58872_needit_needit">due_date&lt;javascript:gs.beginningOfToday()^EQ<item endquery="false" field="due_date" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>Show Past Due NeedIt records</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Past Due</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-17 11:37:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1f09b84cc370121072bd5b2ed4013190</sys_id><sys_mod_count>11</sys_mod_count><sys_name>Past Due</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_1f09b84cc370121072bd5b2ed4013190</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-17 11:56:58</sys_updated_on><timeline_page/><title>Past Due</title><uncancelable>false</uncancelable><view_name>Sealtiel Villegas AppFile Lab Exercise</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>206183300</payload_hash>
+        <record_name>Past Due</record_name>
+        <reverted_from/>
+        <source>6e807884c330121072bd5b2ed4013138</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 11:56:58</sys_created_on>
+        <sys_id>5a0ebc04c3f0121072bd5b2ed40131f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191ffd7cee50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 11:56:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>de0ebc041df012100a973358987cd4f6</update_guid>
+        <update_guid_history>de0ebc041df012100a973358987cd4f6:206183300,68ed3c802df01210cf510c41e94ac800:-777767579,0dcdf8403ef0121088a6a6db27b39fc0:320387001,3a9df44063f01210fa83d04ddc9fbf7d:206183300,095d74cc15b01210a73f61a9ab072f79:1566405703,510db4c8a3b01210ed2e6c4fa544454b:140620870,3cfcb0080db012103a8ff5172a602f76:-1302776760,19cc3008c0b012109ce21a817690e79d:1566405703,734cf4c405b01210f7b7c73ed7df0b8f:-1302776760,40fb30cca97012105a3a4a1928669acb:1566405703,f9bb74c08cb012107f9123a4f7584422:140620870,0689348c62701210ffbbcf41ade5d53d:2145115251</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Past Due">ca8e3044c3f0121072bd5b2ed4013119</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 11:59:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>89aab00052f64b248e6573dcf191c5a9</sys_id>
+        <sys_metadata>1f09b84cc370121072bd5b2ed4013190</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Past Due</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_1f09b84cc370121072bd5b2ed4013190</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1f09b84cc370121072bd5b2ed4013190">5a0ebc04c3f0121072bd5b2ed40131f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 11:59:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
